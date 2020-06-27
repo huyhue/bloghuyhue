@@ -1,8 +1,4 @@
 *{margin: 0; padding: 0;}
-/*html,body {
-    height: 100%;
-    background: gray;
-} */
 #than {
     height: 100%;
     transition: cubic-bezier(.38,-0.15,.92,.09) 0.5s;
